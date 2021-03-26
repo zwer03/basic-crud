@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
-    <div class="row">
+<div class="container-fluid">
+    <div class="row mt-1">
         <div class="panel panel-default">
             <div class="panel-heading">Create Song</div>
             <div class="panel-body">
